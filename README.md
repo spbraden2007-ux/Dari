@@ -1,7 +1,7 @@
 # Dari (다리)
 
 > A VSCode-style desktop app that lets anyone use CLI tools 
-> with AI assistance — safely.
+> with AI assistance, safely.
 
 ## What is Dari?
 Dari bridges the gap between powerful CLI tools and everyday users.
