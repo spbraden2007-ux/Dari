@@ -6,7 +6,7 @@
 ## What is Dari?
 Dari bridges the gap between powerful CLI tools and everyday users.
 Pick a CLI from the marketplace, type in plain language, 
-and Dari handles the rest — with permission controls built in.
+and Dari handles the rest, with permission controls built in.
 
 ## Status
 Planning phase. V0.1 development starts April 2026.
